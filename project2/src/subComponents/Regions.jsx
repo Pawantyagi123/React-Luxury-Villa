@@ -12,14 +12,14 @@ export default function Regions() {
         </p>
         <div className="region_container">
           <div className="card">
-            <img src="./public/region1.jpg" alt="mountain" />
+            <img src="/region1.jpg" alt="mountain" />
             <h2>Mountains</h2>
             <p>
               <span>90</span>Properties
             </p>
           </div>
           <div className="card">
-            <img src="./public/region2.jpg" alt="coastline" />
+            <img src="/region2.jpg" alt="coastline" />
             <h2>Coastline</h2>
             <p>
               <span>52</span>Properties
