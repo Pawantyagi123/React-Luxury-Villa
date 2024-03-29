@@ -15,10 +15,10 @@ export default function About() {
         </div>
         <div className="second_container">
           <div className="image_1">
-            <img src="/public/people.jpg" alt="people"/>
+            <img src="./public/people.jpg" alt="people"/>
           </div>
           <div className="image_2">
-            <img src="/public/people2.jpg" alt="people2"/>
+            <img src="./public/people2.jpg" alt="people2"/>
           </div>
         </div>
       </section>

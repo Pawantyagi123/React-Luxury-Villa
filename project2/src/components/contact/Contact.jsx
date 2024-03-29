@@ -11,7 +11,7 @@ export default function Contact() {
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse placeat perferendis repudiandae voluptates nostrum ipsum assumenda ratione quia rem reiciendis?</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, aut dolorum ea totam maxime error iusto, quae, perspiciatis facilis consectetur aspernatur ab ipsam porro ipsa obcaecati officiis dicta a nostrum?</p>
         <div className="container">
-            <img src="/public/about (1).jpg" alt="about" />
+            <img src="./public/about (1).jpg" alt="about" />
             <div className="content">
           <h3>Let &apos;s Connect</h3>
           <div>
