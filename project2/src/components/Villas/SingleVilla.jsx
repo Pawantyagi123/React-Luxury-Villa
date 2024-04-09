@@ -16,12 +16,12 @@ export default function SingleVilla() {
             </div>
             <div className="otherImgs">
               <div>
-                <img src={"/public/landing.jpg"} alt="landing" />
-                <img src={"/public/people.jpg"} alt="people" />
+                <img src={"/landing.jpg"} alt="landing" />
+                <img src={"/people.jpg"} alt="people" />
               </div>
               <div>
-                <img src={"/public/people2.jpg"} alt="people2" />
-                <img src={"/public/villa10.jpg"} alt="villa" />
+                <img src={"/people2.jpg"} alt="people2" />
+                <img src={"/villa10.jpg"} alt="villa" />
               </div>
             </div>
           </div>
